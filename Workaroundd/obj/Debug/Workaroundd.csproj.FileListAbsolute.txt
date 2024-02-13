@@ -1,0 +1,7 @@
+C:\Users\Emre\source\repos\MaskeTakıp\Workaroundd\bin\Debug\Workaroundd.exe.config
+C:\Users\Emre\source\repos\MaskeTakıp\Workaroundd\bin\Debug\Workaroundd.exe
+C:\Users\Emre\source\repos\MaskeTakıp\Workaroundd\bin\Debug\Workaroundd.pdb
+C:\Users\Emre\source\repos\MaskeTakıp\Workaroundd\obj\Debug\Workaroundd.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\MaskeTakıp\Workaroundd\obj\Debug\Workaroundd.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\MaskeTakıp\Workaroundd\obj\Debug\Workaroundd.exe
+C:\Users\Emre\source\repos\MaskeTakıp\Workaroundd\obj\Debug\Workaroundd.pdb

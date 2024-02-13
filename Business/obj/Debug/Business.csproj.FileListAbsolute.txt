@@ -1,0 +1,6 @@
+C:\Users\Emre\source\repos\MaskeTakıp\Business\bin\Debug\Business.dll
+C:\Users\Emre\source\repos\MaskeTakıp\Business\bin\Debug\Business.pdb
+C:\Users\Emre\source\repos\MaskeTakıp\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\MaskeTakıp\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\MaskeTakıp\Business\obj\Debug\Business.dll
+C:\Users\Emre\source\repos\MaskeTakıp\Business\obj\Debug\Business.pdb
